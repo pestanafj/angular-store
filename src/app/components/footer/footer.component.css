@@ -1,0 +1,40 @@
+*{
+	font-family: 'Calibri';
+	font-size: 18px;
+}
+
+
+.footer_container{
+	background-color: #003697;
+	color:white;
+	padding: 50px 100px 50px 100px;
+	display: flex;
+	flex-direction: column;
+	margin-top:50px;
+}
+
+.footer_top{
+	display: flex;
+	flex-direction: row;
+	padding-bottom:50px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	padding: 10px 0 10px 0;
+}
+
+.footer_middle{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.footer_bottom{
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+}
